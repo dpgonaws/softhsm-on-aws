@@ -21,6 +21,6 @@ entries:
     name: softhsm
     type: application
     urls:
-      - https://github.com/dpgonaws/softhsm-on-aws/softhsm-12.0.1-B2.tgz
+      - https://dpgonaws.github.io/softhsm-on-aws/softhsm-12.0.1-B2.tgz
     version: 12.0.1-B2
 generated: "2024-03-19T12:50:21.044101083Z"
