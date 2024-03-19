@@ -20,7 +20,7 @@ entries:
       name: MOSIP
     name: softhsm
     type: application
-    urls:
-    - softhsm-12.0.1-B2.tgz
+      #urls:
+      #- https://dpgonaws.github.io/softhsm-on-aws/softhsm-12.0.1-B2.tgz
     version: 12.0.1-B2
 generated: "2024-03-19T12:17:20.6277599Z"
