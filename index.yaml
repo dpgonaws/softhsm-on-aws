@@ -2,7 +2,7 @@ apiVersion: v1
 entries:
   softhsm:
   - apiVersion: v2
-    created: "2024-03-19T06:54:37.422527029Z"
+    created: "2024-03-19T07:40:54.614923292Z"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -10,7 +10,7 @@ entries:
       - bitnami-common
       version: 1.x.x
     description: A Helm chart for MOSIP Softhsm module
-    digest: 49af885f477aeebbe75f768e3420c50a6c108b9b3c59ccad6be66a5f61035b45
+    digest: 715a9ca753c832c09a5485b04411837ead60bfe9327bb742218632b9ead2c2fe
     home: https://mosip.io
     keywords:
     - softhsm
@@ -23,4 +23,4 @@ entries:
     urls:
     - softhsm-12.0.1-B2.tgz
     version: 12.0.1-B2
-generated: "2024-03-19T06:54:37.420435259Z"
+generated: "2024-03-19T07:40:54.612773947Z"
